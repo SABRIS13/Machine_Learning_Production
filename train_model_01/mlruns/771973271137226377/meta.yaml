@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/sabri/Documents/ML_Prod/train_model_01/mlruns/771973271137226377
+creation_time: 1677628436182
+experiment_id: '771973271137226377'
+last_update_time: 1677628436182
+lifecycle_stage: active
+name: titanic_experiment

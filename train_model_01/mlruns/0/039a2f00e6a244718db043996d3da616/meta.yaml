@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sabri/Documents/ML_Prod/train_model_01/mlruns/0/039a2f00e6a244718db043996d3da616/artifacts
+end_time: 1677628617455
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 039a2f00e6a244718db043996d3da616
+run_name: alpha=0.5, penalty=l2
+run_uuid: 039a2f00e6a244718db043996d3da616
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677628610924
+status: 3
+tags: []
+user_id: sabri
